@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Black Product",
+    "price": 20,
+    "colour": "Black",
+    "img": "test"
+  },
+  {
+    "id": 2,
+    "name": "Stone Product",
+    "price": 10,
+    "colour": "Stone",
+    "img": "test"
+  },
+  {
+    "id": 3,
+    "name": "Black Product 2",
+    "price": 30,
+    "colour": "Black",
+    "img": "test"
+  }
+]
